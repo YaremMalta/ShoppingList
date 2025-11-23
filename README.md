@@ -34,3 +34,12 @@ Additionally, products can be filtered as **All**, **Completed** or **Incomplete
 2. Check the checkbox to mark a product as completed.  
 3. Click the red cross icon to remove a product.  
 4. Use the filter buttons to view all products, completed products or incomplete products.
+
+## Screenshots
+
+![No items view](images/Shopping-list-no-items.png)
+![Main view](images/Shopping-list-main.png)
+![All filter view](images/Shopping-list-all-filter.png)
+![Incomplete filter view](images/Shopping-list-incompleted-filter.png)
+![Completed filter view](images/Shopping-list-completed-filter.png)
+
